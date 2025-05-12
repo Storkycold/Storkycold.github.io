@@ -1,15 +1,13 @@
 # Associations
-# comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: AKUSSA(Association of Korea University Students Studying Abroad)
+  role: Club President 
+  year: Jan, 2025 &mdash; Present
+  summary: Led recruitment interviews. Held regular meeting session for previous members
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: DevKor(Korea University Software Development Club)
+  role: Financial Manager 
+  year: Sep, 2023 &mdash; Dec, 2023  
+  url: https://devkor.club/
+  summary: Led recruitment interviews. Organized questions, interviewed 100+ participants every semester
