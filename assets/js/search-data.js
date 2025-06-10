@@ -411,14 +411,14 @@ ninja.data = [{
           section: "News",},{id: "news-matriculated-into-korea-university-major-computer-science-and-engineering",
           title: 'Matriculated into Korea University (major: Computer Science and Engineering)',
           description: "",
+          section: "News",},{id: "news-served-as-computer-operations-in-republic-of-korea-air-force-worked-in-korean-air-and-space-operations-center-kaoc",
+          title: 'Served as Computer Operations in Republic of Korea Air Force. Worked in Korean...',
+          description: "",
           section: "News",},{id: "news-started-internship-at-medicalai-project-aitia-series-remote-monitoring-system",
           title: 'Started internship at MedicalAI (project: Aitia-Series Remote Monitoring System)',
           description: "",
           section: "News",},{id: "news-started-my-position-as-associate-researcher-in-medicalai",
           title: 'Started my position as Associate Researcher in MedicalAI',
-          description: "",
-          section: "News",},{id: "news-got-b-s-in-korea-university-major-computer-science-and-engineering",
-          title: 'Got B.S in Korea University (major: Computer Science and Engineering)',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -478,13 +478,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://gitlab.com/KevinShin", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
         id: 'social-linkedin',
