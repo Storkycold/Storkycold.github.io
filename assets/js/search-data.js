@@ -405,16 +405,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-permanent-withdrawal-from-sogang-university-major-computer-science-and-engineering",
+          title: 'Permanent withdrawal from Sogang University (major: Computer Science and Engineering)',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-matriculated-into-korea-university-major-computer-science-and-engineering",
+          title: 'Matriculated into Korea University (major: Computer Science and Engineering)',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-internship-at-medicalai-project-aitia-series-remote-monitoring-system",
+          title: 'Started internship at MedicalAI (project: Aitia-Series Remote Monitoring System)',
+          description: "",
+          section: "News",},{id: "news-started-my-position-as-associate-researcher-in-medicalai",
+          title: 'Started my position as Associate Researcher in MedicalAI',
+          description: "",
+          section: "News",},{id: "news-got-b-s-in-korea-university-major-computer-science-and-engineering",
+          title: 'Got B.S in Korea University (major: Computer Science and Engineering)',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
