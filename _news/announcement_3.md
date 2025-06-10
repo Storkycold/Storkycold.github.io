@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-01
+date: 2025-01-01
 inline: true
 related_posts: false
 ---
 
-Started internship at MedicalAI (project: Aitia-Series Remote Monitoring System)
+Started as club president in AKUSSA (Associations of Korea University Students Studying Abroad)
