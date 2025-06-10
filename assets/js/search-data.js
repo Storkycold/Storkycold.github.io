@@ -50,9 +50,9 @@ ninja.data = [{
           section: "News",},{id: "news-started-as-club-president-in-akussa-associations-of-korea-university-students-studying-abroad",
           title: 'Started as club president in AKUSSA (Associations of Korea University Students Studying Abroad)...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-custom-coloring-ai-design-for-child-counseling",
+          title: 'Custom Coloring AI Design For Child Counseling',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
