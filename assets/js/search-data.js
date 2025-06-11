@@ -52,7 +52,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-ai-coloring-design-for-child-counseling",
           title: 'AI Coloring Design For Child Counseling',
-          description: "",
+          description: "Data Youth Campus @Korea University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
