@@ -50,8 +50,8 @@ ninja.data = [{
           section: "News",},{id: "news-started-as-club-president-in-akussa-associations-of-korea-university-students-studying-abroad",
           title: 'Started as club president in AKUSSA (Associations of Korea University Students Studying Abroad)...',
           description: "",
-          section: "News",},{id: "projects-custom-coloring-ai-design-for-child-counseling",
-          title: 'Custom Coloring AI Design For Child Counseling',
+          section: "News",},{id: "projects-ai-coloring-design-for-child-counseling",
+          title: 'AI Coloring Design For Child Counseling',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -80,9 +80,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-nq-dpr-hard-benchmark",
+          title: 'NQ-DPR-hard Benchmark',
+          description: "Natural Language Processing(COSE461) project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
