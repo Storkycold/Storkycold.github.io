@@ -70,9 +70,9 @@ ninja.data = [{
           description: "Natural Language Processing(COSE461) @Korea University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-ci-cd-automated-pipeline",
+          title: 'CI/CD Automated Pipeline',
+          description: "pipeline for semantic-release versioning in Gitlab",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{
