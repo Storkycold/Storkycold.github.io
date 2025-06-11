@@ -1,6 +1,7 @@
 ---
 layout: page
 title: AI Coloring Design For Child Counseling
+description: Data Youth Campus @Korea University 
 img: assets/img/12.png
 importance: 1
 category: undergraduate
