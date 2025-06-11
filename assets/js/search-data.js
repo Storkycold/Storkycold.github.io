@@ -67,7 +67,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-nq-dpr-hard-benchmark",
           title: 'NQ-DPR-hard Benchmark',
-          description: "Natural Language Processing(COSE461) project",
+          description: "Natural Language Processing(COSE461) @Korea University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
