@@ -1,8 +1,8 @@
 ---
 layout: page
 title: NQ-DPR-hard Benchmark 
-description: Natural Language Processing(COSE461) project 
-img: assets/img/4.jpg
+description: Natural Language Processing(COSE461) @Korea University
+img: assets/img/nqdpr.png
 importance: 1
 category: undergraduate
 related_publications: false
