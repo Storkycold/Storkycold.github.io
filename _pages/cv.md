@@ -6,6 +6,4 @@ nav: true
 nav_order: 5
 cv_pdf: KevinShin_Resume.pdf # you can also use external links here
 description: Last updated in Jun 15th. 
-toc:
-  sidebar: left
 ---
