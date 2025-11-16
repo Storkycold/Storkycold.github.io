@@ -1,16 +1,21 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Virtual Fitting Room
+  role: Research Associate
+  duration: Jun. 2023 &mdash; Aug. 2023
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul class="resume-item-list"><li>Designed human mesh segmentation and visualization code from human mesh dataset across multiple age groups</li><li>Implemented distance matrix for Multi Layer Perceptron (MLP) model to minimize discrepancy in source-target mesh</li></ul>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: New Benchmark for Query Expansion Using Dense Passage Retrieval (DPR)
+  role: Team Member
+  duration: Mar. 2023 &mdash; Jun. 2023
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul class="resume-item-list"><li>Implemented reranker pipeline to construct new benchmark for Natural Question dataset by adding query expansion to original query</li><li>Improved recall score by 9% (BM25) and 5% (BERT) on NQ-DPR-hard benchmark through query expansion</li><li>Ranked 3rd place among 19 teams</li></ul>
+
+- project: AI-powered Digital Therapeutic Tool for Psychological Counseling
+  role: Team Leader
+  duration: Jun. 2022 &mdash; Dec. 2022
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Selected for the Data Youth Campus program, affiliated with the Ministry of Science and ICT of the Republic of Korea</li><li> Developed Generative Adversarial Network (GAN) model pipeline to generate therapeutic designs from children’s verbal keywords</li></ul>
