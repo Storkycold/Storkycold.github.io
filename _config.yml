@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar: "true"
 resume_name: "Hyojoon (Kevin) Shin"
-resume_title: "Research Engineer"
+resume_title: "Research Engineer@Medical AI Inc."
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email: "hyojoonshin.contact@gmail.com"
@@ -29,7 +29,7 @@ resume_header_intro: "<p>My research interest lies in designing standardized, in
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work: "yes"
+resume_looking_for_work: "no"
 
 # Decide which sections to use
 # comment out to hide
@@ -45,10 +45,8 @@ resume_section_associations: false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url: "https://github.com/jglovier/resume-template"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url: "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_github_url: "https://github.com/jglovier/resume-template"
+  resume_linkedin_url: "https://www.linkedin.com/in/hyojoon-shin"
 resume_print_social_links: true
 
 # Design settings
