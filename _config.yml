@@ -1,6 +1,6 @@
 # Site settings
 title: "Hyojoon (Kevin) Shin"
-# description: "A resume template for Jekyll and GitHub Pages sites."
+description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
