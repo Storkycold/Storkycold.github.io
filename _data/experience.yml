@@ -3,12 +3,12 @@
 - company: Medical AI Inc.
   position: Research Engineer
   duration: Jan. 2024 &mdash; Present
-  summary: <ul class="resume-item-list"><li>In-House Converter Module for Parsing Raw ECG Data</li><li>Data Serialization System for Cross-Team Communication</li><li>AI-powered Mobile App for Heart Disease Diagnosis with Samsung</li></ul>
+  summary: <ul class="resume-item-list"><li>Developed Python code to parse electrocardiogram (ECG) data from 15+ partner hospitals into secondary-use data for AI-ECG models</li><li>Facilitated data communication between clinicians and AI researchers by applying Avro Schema to standardize internal data structure</li><li>Implemented android mobile application for Samsung Galaxy to diagnose Left Ventricular Systolic Dysfunction (LVSD) in real-time (within 8 seconds)</li></ul>
 
 - company: Medical AI Inc.
   position: Intern
   duration: Sep. 2023 &mdash; Dec. 2023
-  summary: <ul class="resume-item-list"><li>Remote Data Monitoring System for Hospitals</li><li>Built remote monitoring system using hybrid cloud services (Microsoft Azure) that automatically collected 3,000+ patient ECG records monthly from partner hospitals</li><li>Accelerated hospital deployment to 80% by developing bash scripts to automate Azure Arc agent installation and Kubernetes cluster connection</li></ul>
+  summary: <ul class="resume-item-list"><li>Built remote monitoring system using hybrid cloud services (Microsoft Azure) that automatically collected 3,000+ patient ECG records monthly from partner hospitals</li><li>Accelerated hospital deployment to 80% by developing bash scripts to automate Azure Arc agent installation and Kubernetes cluster connection</li></ul>
 
 - company: Republic of Korea Air Force
   position: Information System Management Unit
