@@ -8,7 +8,7 @@
 - company: Medical AI Inc.
   position: Research Intern
   duration: Sep. 2023 &mdash; Dec. 2023
-  summary: <ul class="resume-item-list"><li>Built remote monitoring system using hybrid cloud services (Microsoft Azure) that automatically collected 3,000+ patient ECG records monthly from partner hospitals</li><li>Accelerated hospital deployment to 80% by developing bash scripts to automate Azure Arc agent installation and Kubernetes cluster connection</li></ul>
+  summary: <ul class="resume-item-list"><li>Built remote monitoring system using hybrid cloud services (Microsoft Azure) that automatically collected <strong>3,000+</strong> patient ECG records monthly from partner hospitals</li><li>Accelerated hospital deployment to 80% by developing bash scripts to automate Azure Arc agent installation and Kubernetes cluster connection</li></ul>
 
 - company: Republic of Korea Air Force
   position: Information System Management Unit
