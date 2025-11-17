@@ -3,7 +3,7 @@
 - company: Medical AI Inc.
   position: MLOps Research Engineer
   duration: Jan. 2024 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Developed Python code to parse electrocardiogram (ECG) data from 15+ partner hospitals into secondary-use data for AI-ECG models</li><li>Facilitated data communication between clinicians and AI researchers by applying Avro Schema to standardize internal data structure</li><li>Implemented android mobile application for Samsung Galaxy to diagnose Left Ventricular Systolic Dysfunction (LVSD) in real-time (within 8 seconds)</li></ul>
+  summary: <ul class="resume-item-list"><li>Developed Python code to parse electrocardiogram (ECG) data from 15+ partner hospitals into secondary-use data for AI-ECG models</li><li>Facilitated data communication between clinicians and AI researchers by applying Avro Schema to standardize internal data structure</li><li>Implemented android mobile application for Samsung Galaxy to diagnose Left Ventricular Systolic Dysfunction (LVSD) in <strong>real-time (within 8 seconds)</strong></li></ul>
 
 - company: Medical AI Inc.
   position: Research Intern
@@ -13,4 +13,4 @@
 - company: Republic of Korea Air Force
   position: Information System Management Unit
   duration: Nov. 2019 &mdash; Aug. 2021
-  summary: <ul class="resume-item-list"><li>Coordinated software installation and maintenance of communication equipment at U.S. Air Force Fighter Wing</li><li>Worked in Korean Air And Space Operations Center (KAOC) to support U.S military at Osan Air Base</li><li>Ranked 1st place out of 832 recruits in Basic Physical Fitness Test at Air Force Basic Military Training Wing</li>
+  summary: <ul class="resume-item-list"><li>Coordinated software installation and maintenance of communication equipment at U.S. Air Force Fighter Wing</li><li>Worked in Korean Air And Space Operations Center (KAOC) to support U.S military at Osan Air Base</li><li>Ranked <strong>1st place</strong> out of 832 recruits in Basic Physical Fitness Test at Air Force Basic Military Training Wing</li>
