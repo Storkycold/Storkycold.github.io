@@ -3,7 +3,7 @@
 - company: Medical AI Inc.
   position: MLOps Research Engineer
   duration: Jan. 2024 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Developed Python code to parse electrocardiogram (ECG) data from 15+ partner hospitals into secondary-use data for AI-ECG models</li><li>Facilitated data communication between clinicians and AI researchers by applying Avro Schema to standardize internal data structure</li><li>Implemented android mobile application for Samsung Galaxy to diagnose Left Ventricular Systolic Dysfunction (LVSD) in <strong>real-time (within 8 seconds)</strong></li></ul>
+  summary: <ul class="resume-item-list"><li>Developed Python code to parse electrocardiogram (ECG) data from 15+ partner hospitals into secondary-use data for AI-ECG models</li><li>Facilitated data communication between clinicians and AI researchers by applying Avro Schema to standardize internal data structure</li><li>Implemented android mobile application for Samsung Galaxy Watch to diagnose Left Ventricular Systolic Dysfunction (LVSD) in <strong>real-time (within 8 seconds)</strong></li></ul>
 
 - company: Medical AI Inc.
   position: Research Intern
