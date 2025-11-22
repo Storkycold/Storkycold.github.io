@@ -23,7 +23,7 @@ resume_contact_address: "742 Evergreen Terrace, Springfield"
 resume_header_contact_info: "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info: "false"
 
-resume_header_intro: "<p>My research interests lie in harmonizing and standardizing clinical data to enable seamless interoperability across multiple institutions. I aim to facilitate integration of AI models into real-world clinical practice by enhancing data-sharing workflows and strengthening data interoperability and reusability. In my free time, I enjoy running, playing the violin, and traveling abroad. (My favorite city is Paris, Tokyo, and New York!) If you have any questions or would like to connect, feel free to reach out via email.</p>"
+resume_header_intro: "<p>My research interests lie in harmonizing and standardizing clinical data to enable seamless interoperability across multiple institutions. I aim to facilitate integration of AI models into real-world clinical practice by enhancing data-sharing workflows and strengthening data interoperability and reusability.<br><br>In my free time, I enjoy running, playing the violin, and traveling abroad. (My favorite city is Paris, Tokyo, and New York) If you have any questions or would like to connect, feel free to reach out via email.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
