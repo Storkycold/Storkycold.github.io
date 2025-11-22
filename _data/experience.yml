@@ -3,14 +3,14 @@
 - company: Medical AI Inc.
   position: MLOps Research Engineer
   duration: Jan. 2024 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Developed Python code to parse electrocardiogram (ECG) data from 15+ partner hospitals into secondary-use data for AI-ECG models</li><li>Facilitated data communication between clinicians and AI researchers by applying Avro Schema to standardize internal data structure</li><li>Implemented android mobile application for Samsung Galaxy Watch to diagnose Left Ventricular Systolic Dysfunction (LVSD) in <strong>real-time (within 8 seconds)</strong></li></ul>
+  summary: <ul class="resume-item-list"><li>Developed Python code to parse ECG data from <strong>15+ partner medical centers</strong> into unified internal format for AI-ECG models</li><li>Orchestrated data communication between AI researchers and Medical group clinicians by adopting Avro Schema to standardize internal data schema</li><li>Implemented android mobile application for Samsung Galaxy Watch to diagnose Left Ventricular Systolic Dysfunction (LVSD) in <strong>real-time (within 8 seconds)</strong></li></ul>
 
 - company: Medical AI Inc.
   position: Research Intern
   duration: Sep. 2023 &mdash; Dec. 2023
-  summary: <ul class="resume-item-list"><li>Built remote monitoring system using hybrid cloud services (Microsoft Azure) that automatically collected <strong>3,000+</strong> patient ECG records monthly from partner hospitals</li><li>Accelerated hospital deployment to 80% by developing bash scripts to automate Azure Arc agent installation and Kubernetes cluster connection</li></ul>
+  summary: <ul class="resume-item-list"><li>Built hybrid-cloud monitoring system using Microsoft Azure that aggregated <strong>3,000+</strong> AI-ECG model inference events per month from partner hospitals</li><li>Reduced hospital deployment time by 80% by automating Azure Arc installation and Kubernetes cluster connection with Bash scripts</li></ul>
 
 - company: Republic of Korea Air Force
   position: Information System Management Unit
   duration: Nov. 2019 &mdash; Aug. 2021
-  summary: <ul class="resume-item-list"><li>Coordinated software installation and maintenance of communication equipment at U.S. Air Force Fighter Wing</li><li>Worked in Korean Air And Space Operations Center (KAOC) to support U.S military at Osan Air Base</li><li>Ranked <strong>1st place</strong> out of 832 recruits in Basic Physical Fitness Test at Air Force Basic Military Training Wing</li>
+  summary: <ul class="resume-item-list"><li>Performed software installation and maintenance of communication equipment at U.S. Air Force Fighter Wing</li><li>Worked in Korean Air And Space Operations Center (KAOC) to support U.S military at Osan Air Base</li><li>Ranked <strong>1st place</strong> out of 832 recruits in Basic Physical Fitness Test at Air Force Basic Military Training Wing</li>
