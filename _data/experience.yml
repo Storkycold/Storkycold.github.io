@@ -1,14 +1,14 @@
 # Jobs
 # VP of Global Communications
-- company: Medical AI Inc.
+- company: Medical AI Co., Ltd.
   position: MLOps Research Engineer
   duration: Jan. 2024 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Developed Python code to parse ECG data from <strong>15+ partner medical centers</strong> into unified internal format for AI-ECG models</li><li>Orchestrated data communication between AI researchers and Medical group clinicians by adopting Avro Schema to standardize internal data schema</li><li>Implemented android mobile application for Samsung Galaxy Watch to diagnose Left Ventricular Systolic Dysfunction (LVSD) in <strong>real-time (within 8 seconds)</strong></li></ul>
+  summary: <ul class="resume-item-list"><li>Developed Python code to parse ECG data from <strong>20+ partner medical centers</strong> into unified internal format for AI-ECG models</li><li>Orchestrated data communication between AI researchers and Medical group clinicians by adopting Avro Schema to standardize internal data schema</li><li>Implemented android mobile application for Samsung Galaxy Watch to diagnose Left Ventricular Systolic Dysfunction (LVSD) in <strong>real-time (within 8 seconds)</strong></li></ul>
 
-- company: Medical AI Inc.
+- company: Medical AI Co., Ltd.
   position: Research Intern
   duration: Sep. 2023 &mdash; Dec. 2023
-  summary: <ul class="resume-item-list"><li>Built hybrid-cloud monitoring system using Microsoft Azure that aggregated <strong>3,000+</strong> AI-ECG model inference events per month from partner hospitals</li><li>Reduced hospital deployment time by 80% by automating Azure Arc installation and Kubernetes cluster connection with Bash scripts</li></ul>
+  summary: <ul class="resume-item-list"><li>Built hybrid-cloud monitoring system using Microsoft Azure that aggregated <strong>40,000+</strong> AI-ECG model inference events per month from partner hospitals</li><li>Reduced hospital deployment time by 80% by automating Azure Arc installation and Kubernetes cluster connection with Bash scripts</li></ul>
 
 - company: Republic of Korea Air Force
   position: Information System Management Unit
