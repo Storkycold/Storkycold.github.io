@@ -5,7 +5,7 @@
   role: Research Associate
   duration: Jun. 2023 &mdash; Aug. 2023
   # url: "#"
-  description: <ul class="resume-item-list"><li>Designed human mesh segmentation and visualization code from human mesh dataset across multiple age groups</li><li>Implemented distance matrix for Multi Layer Perceptron (MLP) model to minimize discrepancy in source-target mesh</li></ul>
+  description: <ul class="resume-item-list"><li>Developed 3D human mesh segmentation and visualization pipeline for different age groups</li><li>Optimized MLP model by implementing distance matrix, minimizing geometric discrepancies by 20\% between source and target meshes</li></ul>
 
 # Springfield Community Outreach Group
 - project: Natural Questions-Hard (NQ-Hard) Benchmark Using Query Expansion
