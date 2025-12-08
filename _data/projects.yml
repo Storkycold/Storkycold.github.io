@@ -9,13 +9,13 @@
 
 # Springfield Community Outreach Group
 - project: New Benchmark for Query Expansion Using Dense Passage Retrieval (DPR)
-  role: Team Member
+  role: Researcher in Natural Language Processing Course
   duration: Mar. 2023 &mdash; Jun. 2023
   # url: "#"
   description: <ul class="resume-item-list"><li>Implemented reranker pipeline to construct new benchmark for Natural Question dataset by adding query expansion to original query</li><li>Improved recall score by 9% (BM25) and 5% (BERT) on NQ-DPR-hard benchmark through query expansion</li><li>Ranked <strong>3rd place</strong> among 19 teams</li></ul>
 
-- project: AI-powered Digital Therapeutic Tool for Psychological Counseling
+- project: AI-powered Digital Therapeutic Tool for Clinical Decision Support
   role: Team Leader
   duration: Jun. 2022 &mdash; Dec. 2022
   # url: "#"
-  description: <ul class="resume-item-list"><li>Selected for Data Youth Campus program, affiliated with Ministry of Science and ICT (Republic of Korea)</li><li> Developed Generative Adversarial Network (GAN) model pipeline to generate therapeutic designs from children’s verbal keywords</li></ul>
+  description: <ul class="resume-item-list"><li>Selected for Data Youth Campus program, affiliated with Ministry of Science and ICT (Republic of Korea)</li><li>Designed Generative Adversarial Network (GAN) pipeline to generate personalized therapeutic designs for clinical use</li></ul>
