@@ -12,7 +12,7 @@
   role: Researcher in Natural Language Processing Course
   duration: Mar. 2023 &mdash; Jun. 2023
   # url: "#"
-  description: <ul class="resume-item-list"><li>Implemented reranker pipeline to construct new benchmark for Natural Question dataset by adding query expansion to original query</li><li>Improved recall score by 9% (BM25) and 5% (BERT) on NQ-DPR-hard benchmark through query expansion</li><li>Ranked <strong>3rd place</strong> among 19 teams</li></ul>
+  description: <ul class="resume-item-list"><li>Implemented NQ-Hard benckmark evaluation by building reranker pipeline that applied query expansion to original query</li><li>Improved recall score by 9% (BM25) and 5% (BERT) on NQ-DPR-hard benchmark through query expansion</li><li>Ranked <strong>3rd place</strong> among 19 teams</li></ul>
 
 - project: AI-powered Digital Therapeutic Tool for Clinical Decision Support
   role: Team Leader
