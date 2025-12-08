@@ -8,7 +8,7 @@
   description: <ul class="resume-item-list"><li>Designed human mesh segmentation and visualization code from human mesh dataset across multiple age groups</li><li>Implemented distance matrix for Multi Layer Perceptron (MLP) model to minimize discrepancy in source-target mesh</li></ul>
 
 # Springfield Community Outreach Group
-- project: New Benchmark for Query Expansion Using Dense Passage Retrieval (DPR)
+- project: Natural Questions-Hard (NQ-Hard) Benchmark Using Query Expansion
   role: Researcher in Natural Language Processing Course
   duration: Mar. 2023 &mdash; Jun. 2023
   # url: "#"
@@ -16,6 +16,6 @@
 
 - project: AI-powered Digital Therapeutic Tool for Clinical Decision Support
   role: Team Leader
-  duration: Jun. 2022 &mdash; Dec. 2022
+  duration: Jun. 2022 &mdash; Sep. 2022
   # url: "#"
   description: <ul class="resume-item-list"><li>Selected for Data Youth Campus program, affiliated with Ministry of Science and ICT (Republic of Korea)</li><li>Designed Generative Adversarial Network (GAN) pipeline to generate personalized therapeutic designs for clinical use</li></ul>
