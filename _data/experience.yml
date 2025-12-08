@@ -3,7 +3,7 @@
 - company: Medical AI Co., Ltd.
   position: MLOps Research Engineer
   duration: Jan. 2024 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Developed Python code to parse ECG data from <strong>20+ partner medical centers</strong> into unified internal format for AI-ECG models</li><li>Orchestrated data communication between AI researchers and Medical group clinicians by adopting Avro Schema to standardize internal data schema</li><li>Implemented android mobile application for Samsung Galaxy Watch to diagnose Left Ventricular Systolic Dysfunction (LVSD) in <strong>real-time (within 8 seconds)</strong></li></ul>
+  summary: <ul class="resume-item-list"><li>Engineered unified parsing pipeline for heterogeneous ECG data from <strong>20+ partner medical centers</strong>, enabling seamless integration of AI-ECG model outputs</li><li>Standardized data exchange between AI researchers and clinicians by adopting Avro Schema to resolve schema mismatches</li><li>Implemented android mobile application for Samsung Galaxy Watch to diagnose Left Ventricular Systolic Dysfunction (LVSD) in <strong>real-time (within 8 seconds)</strong></li></ul>
 
 - company: Medical AI Co., Ltd.
   position: Research Intern
