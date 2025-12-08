@@ -8,9 +8,9 @@
 - company: Medical AI Co., Ltd.
   position: Research Intern
   duration: Sep. 2023 &mdash; Dec. 2023
-  summary: <ul class="resume-item-list"><li>Built hybrid-cloud monitoring system using Microsoft Azure that aggregated <strong>40,000+</strong> AI-ECG model inference events per month from partner hospitals</li><li>Reduced hospital deployment time by 80% by automating Azure Arc installation and Kubernetes cluster connection with Bash scripts</li></ul>
+  summary: <ul class="resume-item-list"><li>Built hybrid cloud monitoring system using Microsoft Azure that aggregated <strong>40,000+</strong> AI-ECG model inference events per month from partner hospitals</li><li>Reduced hospital deployment time by 80% through automating Azure Arc installation and Kubernetes cluster connection with Bash scripts</li></ul>
 
 - company: Republic of Korea Air Force
   position: Information System Management Unit
   duration: Nov. 2019 &mdash; Aug. 2021
-  summary: <ul class="resume-item-list"><li>Performed software installation and maintenance of communication equipment at U.S. Air Force Fighter Wing</li><li>Worked in Korean Air And Space Operations Center (KAOC) to support U.S military at Osan Air Base</li><li>Ranked <strong>1st place</strong> out of 832 recruits in Basic Physical Fitness Test at Air Force Basic Military Training Wing</li>
+  summary: <ul class="resume-item-list"><li>Performed software installation and maintenance for communication equipment at U.S. Air Force Fighter Wing</li><li>Worked in Korean Air And Space Operations Center (KAOC) to support U.S military at Osan Air Base</li><li>Ranked <strong>1st</strong> out of 832 recruits in Basic Physical Fitness Test at Air Force Basic Military Training Wing</li>
