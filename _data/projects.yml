@@ -14,7 +14,7 @@
   # url: "#"
   description: <ul class="resume-item-list"><li>Implemented NQ-Hard benckmark evaluation by building reranker pipeline that applied query expansion to original query</li><li>Improved recall score by 9% (BM25) and 5% (BERT) on NQ-DPR-hard benchmark through query expansion</li><li>Ranked <strong>3rd place</strong> among 19 teams</li></ul>
 
-- project: AI-powered Digital Therapeutic Tool for Clinical Decision Support
+- project: AI-powered Digital Therapeutic Service for Personalized Patient Care
   role: Team Leader
   duration: Jun. 2022 &mdash; Sep. 2022
   # url: "#"
